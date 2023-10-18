@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+
+/*General*/
+
+* {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Especifico*/
+
+.subtitulo {
+	font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#educacion {
+	background-color: #b8c1ec;
+}
+
+section#estudios ol {
+	color: #bae8e8;
+}
